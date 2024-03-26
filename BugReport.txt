@@ -1,0 +1,19 @@
+Bug Report 1
+
+
+Name: The user cannot view the potential trade-in amount
+Description: The user cannot view the amount received in case of trade in exchange for an iPhone 12 ProMax
+Pre-conditions: Chrome browser
+Environment: https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15
+Steps to reproduce:
+1. open Chrome browser
+2. insert the link https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15
+3. scroll down to check if the data is visible
+Expected result: the text "Get up to $220 in credit when you trade in iPhone 12" is visible
+Actual result:the text "Get up to $220 in credit when you trade in iPhone 12" is not visible
+Attachment:
+Attempts to repeat:2-3 times with refreshing the page with cache clean-up (Ctrl+F5)
+Name of QA: Olga Gubenco
+Date&Time:3/26/2024
+Severity: High
+Priority: Urgent
