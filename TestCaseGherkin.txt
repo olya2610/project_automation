@@ -1,0 +1,14 @@
+Feature: 
+view the amount received in case of trade in exchange for an iPhone 12 ProMax
+
+Scenario: 
+The user goes to the trade in page
+
+Given:
+The user goes to link https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15
+
+When:
+The user scrolls down to see the comparance fields selected
+
+Then:
+The text "Get up to $220 in credit when you trade in iPhone 12" is visible
