@@ -1,0 +1,21 @@
+Test case 1
+
+
+Name: The user can view the potential trade in amount
+Description: The user can view the amount received in case of trade in exchange for an iPhone 12 ProMax
+Priority: High
+Test case type:
+Automation Status: Yes
+Pre-conditions: Chrome browser
+Environment: https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15
+Test steps:
+1. open Chrome browser
+2. insert the link https://www.apple.com/iphone/why-upgrade/?from=iphone-12&to=iphone-15
+3. scroll down to check if the data is visible
+Test data: n/a
+Expected result: the text "Get up to $220 in credit when you trade in iPhone 12" is visible
+Actual result:
+Attachment:
+Execution status:
+Name of QA: Olga Gubenco
+Date&Time:3/26/2024
